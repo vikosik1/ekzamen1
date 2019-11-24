@@ -261,3 +261,11 @@ p {
           padding: 0; }
       .ba-footer .ba-footer-content .ba-footer-icons .colore {
         color: #5474fd; }
+
+.ba-menu {
+  display: flex;
+  align-items: center; }
+
+.ba-menu__link {
+  color: inherit;
+  text-decoration: none; }
